@@ -1,0 +1,8 @@
+15:41:25.956 [main] INFO  com.example.cjhfirstproject.CjhFirstProjectApplication  - Starting CjhFirstProjectApplication using Java 1.8.0_271 on LAPTOP-II7PLPAM with PID 10324 (E:\JAVA\SpringBoot\学校\代码\cjhFirstProject\target\classes started by 陈佳豪 in E:\JAVA\SpringBoot\学校\代码\cjhFirstProject)
+15:41:25.962 [main] INFO  com.example.cjhfirstproject.CjhFirstProjectApplication  - No active profile set, falling back to 1 default profile: "default"
+15:41:26.850 [main] INFO  org.apache.coyote.http11.Http11NioProtocol  - Initializing ProtocolHandler ["http-nio-8080"]
+15:41:26.850 [main] INFO  org.apache.catalina.core.StandardService  - Starting service [Tomcat]
+15:41:26.851 [main] INFO  org.apache.catalina.core.StandardEngine  - Starting Servlet engine: [Apache Tomcat/9.0.68]
+15:41:27.035 [main] INFO  org.apache.jasper.servlet.TldScanner  - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15:41:27.039 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]  - Initializing Spring embedded WebApplicationContext
+15:41:27.083 [main] INFO  org.apache.catalina.core.StandardService  - Stopping service [Tomcat]
