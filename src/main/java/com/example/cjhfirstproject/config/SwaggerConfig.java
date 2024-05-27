@@ -24,7 +24,7 @@ import java.util.ArrayList;
  * @className : SwaggerConfig
  * @createTime : 2022/1/6 14:19
  * @email : 747731461@qq.com
- * @微信 : cunyu102423423423432
+ * @微信 : cunyu102423423423432234
  * @公众号 : chenjiahao234234234
  * @网站 : https://cunyu1943.gidsfthub.io
  * @description :
