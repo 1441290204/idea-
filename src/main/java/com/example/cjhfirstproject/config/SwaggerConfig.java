@@ -57,7 +57,7 @@ public class SwaggerConfig {
         /*作者信息*/
         Contact contact = new Contact("村雨遥", "https://cunyu1943.github.io", "747731461@qq.com");
         return new ApiInfo(
-                "Spring Boot 集成 Swagger3 测试",
+                "Spring Boot 集成 Swagger3 测试",///4324234234
                 "Spring Boot 集成 Swagger3 测试接口文档",
                 "v1.0",
                 "https://cunyu1943.github.io",
