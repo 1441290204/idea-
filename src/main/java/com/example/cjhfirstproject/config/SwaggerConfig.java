@@ -33,7 +33,7 @@ import java.util.ArrayList;
 @Configuration
 @EnableOpenApi
 public class SwaggerConfig {
-    /**23432434324陈佳豪s234324234234234324324324
+    /**23432434324陈佳豪s23432423423423432432432432423423423423
      * 用于读取配置文件 application.properties 中 swagger 属性是否开启
      */
     @Value("${swagger.enabled}")
